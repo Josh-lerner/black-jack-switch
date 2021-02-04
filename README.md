@@ -2,6 +2,7 @@
 
 Blackjack Switch is a single page game.
 It's built on ReactJS, HTML, CSS, and Express.
+There's a playable demo in the about section.
 
 ## Project Description
 
